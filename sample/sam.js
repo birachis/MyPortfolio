@@ -1,1 +1,0 @@
-alert ("are you shure");
